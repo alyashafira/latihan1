@@ -65,4 +65,7 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
  18. UNTUK MENGIRIM PERUBAHAN LOCAL REPOSITORY  KE SERVER GUNAKAN PERINTAH || $ git push -u origin master ||
 ![Capture git remote   push](https://user-images.githubusercontent.com/56963083/67619415-ae1b1680-f825-11e9-8ef4-8e39f0346875.png)
 
-19. JIKA ANDA INGIN MELAKUKAN CLONING GUNAKAN PERINTAH ||$ git clone [URL] ||
+19. JIKA ANDA INGIN MELAKUKAN CLONE REPOSITORY GUNAKAN PERINTAH ||$ git clone [URL] || CONTOH "git  clone http://github.com/alyashafira/latihan1.git
+![Capture git clone](https://user-images.githubusercontent.com/56963083/67621221-96995900-f838-11e9-87e0-2b1ab508200d.png)
+
+SELESAI.
