@@ -32,3 +32,5 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 9. SETELAH TERINSTAL UNTUK MENCOBANYA SILAHKAN ANDA GUNAKAN CMD KEMUADIAN KETIK PERINTAH git --version, jika muncul ersi git maka proses yang dilakukan sudah berjalan dengan baik. dan git siap digunakan
 ![Capture cmd](https://user-images.githubusercontent.com/56963083/67617486-cbdc8180-f80d-11e9-813b-3768f620a619.PNG)
 10. LALU BUKA DOCUMENT DAN BUAT FOLDER BARU, LALU KLIK KANAN PADA FOLDER LALU PILIH "GIT BASH HERE"
+![GITBASH](https://user-images.githubusercontent.com/56963083/67617603-d9463b80-f80e-11e9-9bf9-cc61ff45bf43.png)
+11. LALU PADA SAAT MENGGUNAKAN GIT LAKUKAN KONFIGURASI user.name dan user.email dengan perintah ||git config --global user.name "nama_user"|| git config --global user.email "nama_user" ||
