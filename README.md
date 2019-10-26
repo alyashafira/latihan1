@@ -35,4 +35,6 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 ![GITBASH](https://user-images.githubusercontent.com/56963083/67617603-d9463b80-f80e-11e9-9bf9-cc61ff45bf43.png)
 11. LALU PADA SAAT MENGGUNAKAN GIT LAKUKAN KONFIGURASI user.name dan user.email dengan perintah || $ git config --global user.name "nama_user"||$ git config --global user.email "nama_user" ||
 ![Capture git config](https://user-images.githubusercontent.com/56963083/67617664-98025b80-f80f-11e9-97a4-939e01121257.png)
-BUATLAH DIRECTORY DENGAN MENGGUNAKAN PERINTAH || $ mkdir latihan1 || sehingga terbentuk 1 direktori baru lalu ketik perintah selanjutnya dibawahnya || $ cd latihan1||
+ 12. BUATLAH DIRECTORY DENGAN MENGGUNAKAN PERINTAH || $ mkdir latihan1 || sehingga terbentuk 1 direktori baru lalu ketik perintah selanjutnya dibawahnya || $ cd latihan1||
+![Capture mkdir lat1](https://user-images.githubusercontent.com/56963083/67617746-8d949180-f810-11e9-9dc2-5adedeead4ed.png)
+LALU JALNKAN PERINTAH SELANJUTNYA || $ git init || untuk membuat repository local
