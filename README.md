@@ -51,3 +51,4 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 17. MASUK KE LAMAN GitHub YANG SUDAH ANDA BUAT PADA BAGIAN QUICK SETUP  TERDAPAT URL GitHub ANDA INI NANTINYA AKAN DIJADIKAN SEBUAH PERINTAH  || $ git remote add origin [URL].|
 
 ![Capture git remote   push](https://user-images.githubusercontent.com/56963083/67619415-ae1b1680-f825-11e9-8ef4-8e39f0346875.png)
+![capture https](https://user-images.githubusercontent.com/56963083/67619439-e7ec1d00-f825-11e9-86bd-17298dc735ff.png)
