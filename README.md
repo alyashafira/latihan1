@@ -42,7 +42,7 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 14. BUAT 1 FILE BERNAMA README.md DENGAN MEMASUKAN PERINTAH || $ echo "latihan1" >>README.md || lalu  ketik perintah || $ ls -l || untuk melihat file 
 ![Capture echo dan ls-l](https://user-images.githubusercontent.com/56963083/67617905-43acab00-f812-11e9-9983-19f6ddd6d2c2.png)
 
-15. UNTUK MENAMBAHKAN FILE YANG BARU SAJA DIUAT GUNAKAN PERINTAH || $ git addd README.md || file README.MD  BERHASIL DIAMBAHKAN.
+15. UNTUK MENAMBAHKAN FILE YANG BARU SAJA DIBUAT GUNAKAN PERINTAH || $ git addd README.md || file README.MD  BERHASIL DITAMBAHKAN.
 ![Capture git add](https://user-images.githubusercontent.com/56963083/67617945-b74eb800-f812-11e9-933e-34c2d1c72b30.png)
 ![Capture git status](https://user-images.githubusercontent.com/56963083/67618071-414b5080-f814-11e9-8535-244a9cf371ad.png)
 ![Capture git commit](https://user-images.githubusercontent.com/56963083/67618063-28429f80-f814-11e9-9327-a28589f18c46.png)
