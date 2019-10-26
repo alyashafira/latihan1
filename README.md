@@ -37,5 +37,6 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 ![Capture git config](https://user-images.githubusercontent.com/56963083/67617664-98025b80-f80f-11e9-97a4-939e01121257.png)
  12. BUATLAH DIRECTORY DENGAN MENGGUNAKAN PERINTAH || $ mkdir latihan1 || sehingga terbentuk 1 direktori baru lalu ketik perintah selanjutnya dibawahnya || $ cd latihan1||
 ![Capture mkdir lat1](https://user-images.githubusercontent.com/56963083/67617746-8d949180-f810-11e9-9dc2-5adedeead4ed.png)
-LALU JALANKAN PERINTAH SELANJUTNYA || $ git init || untuk membuat repository local
+13. LALU JALANKAN PERINTAH SELANJUTNYA || $ git init || untuk membuat repository local
 ![Capture git init](https://user-images.githubusercontent.com/56963083/67617755-a69d4280-f810-11e9-84c7-8a3a93360c92.png)
+14. BUAT 1 FILE BERNAMA README.md DENGAN MEMASUKAN PERINTAH || $ echo "latihan1" >>README.md || lalu  ketik perintah || $ ls -l || untuk melihat file 
