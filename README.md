@@ -33,5 +33,6 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 ![Capture cmd](https://user-images.githubusercontent.com/56963083/67617486-cbdc8180-f80d-11e9-813b-3768f620a619.PNG)
 10. LALU BUKA DOCUMENT DAN BUAT FOLDER BARU, LALU KLIK KANAN PADA FOLDER LALU PILIH "GIT BASH HERE"
 ![GITBASH](https://user-images.githubusercontent.com/56963083/67617603-d9463b80-f80e-11e9-9bf9-cc61ff45bf43.png)
-11. LALU PADA SAAT MENGGUNAKAN GIT LAKUKAN KONFIGURASI user.name dan user.email dengan perintah ||git config --global user.name "nama_user"|| git config --global user.email "nama_user" ||
+11. LALU PADA SAAT MENGGUNAKAN GIT LAKUKAN KONFIGURASI user.name dan user.email dengan perintah || $ git config --global user.name "nama_user"||$ git config --global user.email "nama_user" ||
 ![Capture git config](https://user-images.githubusercontent.com/56963083/67617664-98025b80-f80f-11e9-97a4-939e01121257.png)
+BUATLAH DIRECTORY DENGAN MENGGUNAKAN PERINTAH || $ mkdir latihan1 || sehingga terbentuk 1 direktori baru lalu ketik perintah selanjutnya dibawahnya || $ cd latihan1||
