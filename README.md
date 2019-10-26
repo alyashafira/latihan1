@@ -45,6 +45,6 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 15. UNTUK MENAMBAHKAN FILE YANG BARU SAJA DIBUAT GUNAKAN PERINTAH || $ git addd README.md || file README.MD  BERHASIL DITAMBAHKAN.
 ![Capture git add](https://user-images.githubusercontent.com/56963083/67617945-b74eb800-f812-11e9-933e-34c2d1c72b30.png)
 ![Capture git status](https://user-images.githubusercontent.com/56963083/67618071-414b5080-f814-11e9-8535-244a9cf371ad.png)
-![Capture git commit](https://user-images.githubusercontent.com/56963083/67618063-28429f80-f814-11e9-9327-a28589f18c46.png)
+
  16. UNTUK MENYIMPAN PERUBAHAN YANG ADA KEDALAM DATABASE REPOSITORY GUNAKAN PERINTAH || $ git commit -m "komentar saya" || $ I commit -m " File pertama saya" ||
- 
+ ![Capture git commit](https://user-images.githubusercontent.com/56963083/67618063-28429f80-f814-11e9-9327-a28589f18c46.png)
