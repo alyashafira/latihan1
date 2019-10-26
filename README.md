@@ -58,8 +58,11 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 
  16. UNTUK MENYIMPAN PERUBAHAN YANG ADA KEDALAM DATABASE REPOSITORY GUNAKAN PERINTAH || $ git commit -m "komentar saya" || $ I commit -m " File pertama saya" ||
  ![Capture git commit](https://user-images.githubusercontent.com/56963083/67618063-28429f80-f814-11e9-9327-a28589f18c46.png)
+ 
 17. MASUK KE LAMAN GitHub YANG SUDAH ANDA BUAT PADA BAGIAN QUICK SETUP  TERDAPAT URL GitHub ANDA INI NANTINYA AKAN DIJADIKAN SEBUAH PERINTAH  || $ git remote add origin [URL].|
-
 ![capture https](https://user-images.githubusercontent.com/56963083/67619439-e7ec1d00-f825-11e9-86bd-17298dc735ff.png)
- DAN UNTUK MENGIRIM PERUBAHAN LOCAL REPOSITORY  KE SERVER GUNAKAN PERINTAH || $ git push -u origin master ||
+
+ 18. UNTUK MENGIRIM PERUBAHAN LOCAL REPOSITORY  KE SERVER GUNAKAN PERINTAH || $ git push -u origin master ||
 ![Capture git remote   push](https://user-images.githubusercontent.com/56963083/67619415-ae1b1680-f825-11e9-8ef4-8e39f0346875.png)
+
+19. JIKA ANDA INGIN MELAKUKAN CLONING GUNAKAN PERINTAH ||$ git clone [URL] ||
