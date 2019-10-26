@@ -40,3 +40,6 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 13. LALU JALANKAN PERINTAH SELANJUTNYA || $ git init || untuk membuat repository local
 ![Capture git init](https://user-images.githubusercontent.com/56963083/67617755-a69d4280-f810-11e9-84c7-8a3a93360c92.png)
 14. BUAT 1 FILE BERNAMA README.md DENGAN MEMASUKAN PERINTAH || $ echo "latihan1" >>README.md || lalu  ketik perintah || $ ls -l || untuk melihat file 
+![Capture echo dan ls-l](https://user-images.githubusercontent.com/56963083/67617905-43acab00-f812-11e9-9983-19f6ddd6d2c2.png)
+
+15. UNTUK MENAMBAHKAN FILE YANG BARU SAJA DIUAT GUNAKAN PERINTAH || $ git addd README.md || file README.MD berhasil ditambahkan
