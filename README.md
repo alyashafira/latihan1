@@ -42,5 +42,8 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 14. BUAT 1 FILE BERNAMA README.md DENGAN MEMASUKAN PERINTAH || $ echo "latihan1" >>README.md || lalu  ketik perintah || $ ls -l || untuk melihat file 
 ![Capture echo dan ls-l](https://user-images.githubusercontent.com/56963083/67617905-43acab00-f812-11e9-9983-19f6ddd6d2c2.png)
 
-15. UNTUK MENAMBAHKAN FILE YANG BARU SAJA DIUAT GUNAKAN PERINTAH || $ git addd README.md || file README.MD berhasil ditambahkan
+15. UNTUK MENAMBAHKAN FILE YANG BARU SAJA DIUAT GUNAKAN PERINTAH || $ git addd README.md || file README.MD  BERHASIL DIAMBAHKAN.
 ![Capture git add](https://user-images.githubusercontent.com/56963083/67617945-b74eb800-f812-11e9-933e-34c2d1c72b30.png)
+
+ 16. UNTUK MENYIMPAN PERUBAHAN YANG ADA KEDALAM DATABASE REPOSITORY GUNAKAN PERINTAH || $ git commit -m "komentar saya" || $ I commit -m " File pertama saya" ||
+ 
