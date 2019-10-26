@@ -43,3 +43,4 @@ YANG SAYA DAPATKAN ADALAH VERSI 2.23.0
 ![Capture echo dan ls-l](https://user-images.githubusercontent.com/56963083/67617905-43acab00-f812-11e9-9983-19f6ddd6d2c2.png)
 
 15. UNTUK MENAMBAHKAN FILE YANG BARU SAJA DIUAT GUNAKAN PERINTAH || $ git addd README.md || file README.MD berhasil ditambahkan
+![Capture git add](https://user-images.githubusercontent.com/56963083/67617945-b74eb800-f812-11e9-933e-34c2d1c72b30.png)
